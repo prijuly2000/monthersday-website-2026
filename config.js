@@ -49,7 +49,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "🎁💖🤗💝💋❤️💕",
-        message: "🎁💖🤗💝💋❤️💕",
+        message: "I LOVE YOU.. HAPPY MOTHER'S DAY !!!"
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
