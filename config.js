@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "माझी एकुलती एक बायको 👰, ऐश्वर्या",
+    valentineName: "माझी एकुलती एक आई 👰, ऐश्वर्या आई",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕      pageTitle: "तू माझी व्हॅलेंटाईन होशील का ?? 💝",
@@ -24,7 +24,7 @@ const CONFIG = {
             text: "मी तुला आवडतो का ?",                                    // First interaction
             yesBtn: "हो",                                             // Text for "Yes" button
             noBtn: "नाही",                                               // Text for "No" button
-            secretAnswer: "नाही, I love you! ❤️"           // Secret hover message
+            secretAnswer: "I love you! ❤️"           // Secret hover message
         },
         second: {
             text: "तू माझ्यावर किती प्रेम करतेस ?",                          // For the love meter
@@ -32,7 +32,7 @@ const CONFIG = {
             nextBtn: "चला पुढे ❤️"                                         // Text for the next button
         },
         third: {
-            text: "१४ फेब्रुवारीला तू माझी व्हॅलेंटाईन होशील का? 🌹", // The big question!
+            text: "मी खूप पपी देउ का ? 🌹", // The big question!
             yesBtn: "हो!",                                             // Text for "Yes" button
             noBtn: "नाही"                                                 // Text for "No" button
         }
